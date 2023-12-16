@@ -1,4 +1,4 @@
-Les noms de variables valides parmi ces variables  sont : 
+Les noms de variables valides parmi ces noms de variables  sont : 
 
 1. mavar
 2. $mavar
